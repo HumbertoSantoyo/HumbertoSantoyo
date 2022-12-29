@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on any proyect where I can learn something new.
 - My current proyects are:
   - Science podcast Ciencia Caníbal (in Spanish)
-  - Fulltime university math teaching (a project of constant improving)
-  - Supporting an academic team developing a new data science school program
+  - Data Scientist @ ABinBev
 - 📫 How to reach me ...
 
 <!---
