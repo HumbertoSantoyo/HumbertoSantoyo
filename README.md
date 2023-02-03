@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Beto
 - 👀 I’m interested in Maths and Physics, Data Science and Programming.
-- 🌱 Learning is my fuel. Currently Python and SQL. I am constantly trying to learn new things, maths, science and data science.
+- 🌱 Learning is my fuel. Currently NLP pipelines and Data Sciency methdods. I am constantly trying to learn new things, maths, physics and data science.
 - 💞️ I’m looking to collaborate on any proyect where I can learn something new.
 - My current proyects are:
   - Science podcast Ciencia Caníbal (in Spanish)
