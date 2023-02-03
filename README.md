@@ -5,7 +5,7 @@
 - My current proyects are:
   - Science podcast Ciencia Caníbal (in Spanish)
   - Data Scientist @ ABInBev
-- 📫 How to reach me ...
+- 📫 How to reach me: hsantoyoruiz@gmail.com, https://t.me/@HumbertoSantoyo
 
 <!---
 HumbertoSantoyo/HumbertoSantoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
