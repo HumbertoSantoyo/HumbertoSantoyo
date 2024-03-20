@@ -6,9 +6,9 @@ I am Humberto Santoyo, a Data Scientist converted Physicist.
 
 - 🎓 I have a background in Physics, Astrophysics (BSc), and Theoretical Physics (MSc)
 - 👀 I’m interested in Maths and Physics, Data Science and Programming
-- 🌱 Learning is my fuel. Currently NLP pipelines and Data Sciency methdods
+- 🌱 Learning is my fuel. Currently NLP pipelines and Data Sciency methods
 - 💡 I am constantly trying to learn new things, maths, physics and data science
-- 💞️ I’m looking to collaborate on any proyect where I can learn something new
+- 💞️ I’m looking to collaborate on any proyect where I can learn something new and contribute with ideas.
 
 ## My Projects
 
