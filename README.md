@@ -24,6 +24,7 @@ I am Humberto Santoyo, a Data Scientist converted Physicist.
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions!
 
+![image](image-url)
 
 <!---
 HumbertoSantoyo/HumbertoSantoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
