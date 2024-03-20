@@ -15,6 +15,7 @@ I am Humberto Santoyo, a Data Scientist converted Physicist.
   - Former Data Scientist in AB-InBev 🍺 [Grupo Modelo](https://www.grupomodelo.com/)
   - [Data Science Course Notes](https://github.com/HumbertoSantoyo/Notes-DataScience.git) 📓
   - Mastering the art of being a househusband :octocat: 
+<img src="gokushufudou.jpeg" alt="Gokushufudou" width="500">
 
 ## Get in Touch
 
@@ -25,7 +26,6 @@ I am Humberto Santoyo, a Data Scientist converted Physicist.
 Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions!
 
 
-<img src="gokushufudou.jpeg" alt="Gokushufudou" width="500">
 
 
 <!---
